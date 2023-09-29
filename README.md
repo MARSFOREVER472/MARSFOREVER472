@@ -1,5 +1,5 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! 👋
-
+Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación utilizadas.
 ## Github Stats
 
 ![MARSFOREVER472's Stats](https://github-readme-stats.vercel.app/api?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
