@@ -1,4 +1,6 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! 👋
+![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/bdf0b8bd-4283-4acd-b627-e4f408b5b945)
+
 Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación utilizadas.
 ## Github Stats
 
