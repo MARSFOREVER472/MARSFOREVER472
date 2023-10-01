@@ -1,7 +1,6 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! 👋
 
-![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/3e8edc8a-fa17-4d91-98ff-1a10949acac0)
-
+![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/03178ca5-7d7d-4523-b38c-4655a9eb7a48)
 
 
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
