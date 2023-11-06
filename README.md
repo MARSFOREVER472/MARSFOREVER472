@@ -80,3 +80,7 @@ Modo darkhub.
 Modo juicyfresh (jugo refrescante con frutas).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=juicyfresh)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo buddhism (Budismo).
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
