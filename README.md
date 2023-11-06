@@ -56,3 +56,7 @@ Modo gruvbox (En fondo de color marrón).
 Modo drácula.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dracula)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo monokai.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
