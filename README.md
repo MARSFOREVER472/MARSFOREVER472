@@ -43,7 +43,7 @@ Todos los indicadores estadísticos que llevo hasta el momento...
 
 Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
 Además, existe un montón de variedades que induce en tus logros obtenidos, como por ejemplo, en modo oscuro.
 
