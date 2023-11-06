@@ -84,3 +84,7 @@ Modo juicyfresh (jugo refrescante con frutas).
 Modo buddhism (Budismo).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo oldie (Antigüo).
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=oldie)](https://github.com/MARSFOREVER472/github-profile-trophy)
