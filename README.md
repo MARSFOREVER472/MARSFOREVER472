@@ -72,3 +72,7 @@ Modo nord.
 Modo alduin.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=alduin)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo darkhub.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=darkhub)](https://github.com/MARSFOREVER472/github-profile-trophy)
