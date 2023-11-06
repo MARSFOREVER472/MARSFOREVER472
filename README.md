@@ -64,3 +64,7 @@ Modo monokai.
 Modo chalk.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=chalk)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo nord.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=nord)](https://github.com/MARSFOREVER472/github-profile-trophy)
