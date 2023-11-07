@@ -110,3 +110,7 @@ Modo algolia.
 Modo gitdimmed.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo tokyonight.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=tokyonight)](https://github.com/MARSFOREVER472/github-profile-trophy)
