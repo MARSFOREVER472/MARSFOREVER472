@@ -102,3 +102,7 @@ Modo onestar.
 Modo discord (Comúnmente para hacer videollamadas).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=discord)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo algolia.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
