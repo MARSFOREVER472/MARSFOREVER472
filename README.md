@@ -106,3 +106,7 @@ Modo discord (Comúnmente para hacer videollamadas).
 Modo algolia.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
+Modo gitdimmed.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
