@@ -1,6 +1,8 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! 👋
 
+### Contador de visitas añadido a mi archivo README.md!!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
+![](https://komarev.com/ghpvc/?username=MARSFOREVER472&style=flat-square)
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/03178ca5-7d7d-4523-b38c-4655a9eb7a48)
 
