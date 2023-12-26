@@ -145,6 +145,8 @@ Modo dark_lover (Versión amantes de la oscuridad).
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/3caf0c60-6c2e-4d94-a883-f39e6ee322ba)
 
+**QUE TENGAN TODOS UNA MUY LINDA FELIZ NAVIDAD Y UN PRÓSPERO AÑO NUEVO 2024!!!**
+
 **Kind regards!**
 
 ***MARSFOREVER472***
