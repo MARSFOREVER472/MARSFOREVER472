@@ -1,6 +1,6 @@
 # FELIZ NAVIDAD Y PRÓSPERO AÑO NUEVO 2024!!! 👋
 
-### Contador de visitas añadido a mi archivo README.md!!!!!!
+### Contador de visitas añadido a mi archivo oficial (README.md) !!!!!!
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=green)
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=yellowgreen)
