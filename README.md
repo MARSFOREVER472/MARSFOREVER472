@@ -72,7 +72,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo gruvbox (En fondo de color marrón).
+### Modo gruvbox (En fondo de color marrón).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gruvbox)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
