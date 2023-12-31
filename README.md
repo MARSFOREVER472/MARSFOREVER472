@@ -80,7 +80,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dracula)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo monokai.
+### Modo monokai.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
