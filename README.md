@@ -104,7 +104,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=juicyfresh)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo buddhism (Budismo).
+### Modo buddhism (Budismo).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
