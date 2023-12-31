@@ -128,7 +128,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo gitdimmed.
+### Modo gitdimmed.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
