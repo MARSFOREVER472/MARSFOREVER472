@@ -92,7 +92,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=nord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo alduin.
+### Modo alduin.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=alduin)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
