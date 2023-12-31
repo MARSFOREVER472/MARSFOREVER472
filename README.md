@@ -116,7 +116,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=radical)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-Modo onestar.
+### Modo onestar.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onestar)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
