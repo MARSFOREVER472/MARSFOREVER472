@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=blue)
 
-## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A LA BANDA DE ROCK METAL)
+## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A UNA BANDA DE ROCK METAL)
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/03178ca5-7d7d-4523-b38c-4655a9eb7a48)
 
