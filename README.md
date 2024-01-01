@@ -1,5 +1,8 @@
 # FELIZ NAVIDAD Y PRÓSPERO AÑO NUEVO 2024!!! 👋
 
+![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/648552ee-ce93-45d6-b06e-062caf727441)
+
+
 ### Contador de visitas añadido a mi archivo oficial (README.md) !!!!!!
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=green)
