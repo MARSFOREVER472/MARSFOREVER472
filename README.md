@@ -1,13 +1,7 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! 👋
 
 ### Contador de visitas añadido a mi archivo oficial (README.md) !!!!!!
-
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=green)
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=yellowgreen)
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=yellow)
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=blue)
 
 ## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A UNA BANDA DE ROCK METAL)
 
