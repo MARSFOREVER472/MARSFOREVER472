@@ -146,7 +146,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_lover)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-**ESPERO QUE LO PASEN MUY BIEN EN ESTE COMIENZO DE AÑO 2024!!!!!!!!**
+**ESPERO QUE CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**
 
 **Kind regards!**
 
