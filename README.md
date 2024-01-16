@@ -29,7 +29,7 @@
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
 
 - 🔭 _Actualmente estoy trabajando en [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_
-- 🌱 Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial.
+- 🌱 _Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
