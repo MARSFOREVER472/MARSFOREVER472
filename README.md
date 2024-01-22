@@ -1,7 +1,15 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! :D 👋
-https://user-badge.committers.top/chile/MARSFOREVER472
+
 ### _Contador de visitas añadido a mi archivo oficial (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
+
+### RANKING ACTUAL DESTACADO EN LA PÁGINA
+
+_Más info en este link:_
+
+https://committers.top/chile
+
+[![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
 ## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A UNA BANDA DE ROCK METAL (AC-DC)).
 
