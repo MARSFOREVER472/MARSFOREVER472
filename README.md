@@ -5,7 +5,7 @@
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
-_Para más información mediante el siguiente link:_
+_Para más información, mediante el siguiente link:_
 
 https://committers.top/chile
 
