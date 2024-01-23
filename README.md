@@ -3,7 +3,7 @@
 ### _Contador de visitas añadido a mi archivo oficial (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
-### RANKING ACTUAL DESTACADO EN LA PÁGINA
+## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 _Más info en este link:_
 
