@@ -70,7 +70,7 @@ Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para pode
 
 Además, existe un montón de variedades que induce en tus logros obtenidos, como por ejemplo:
 
-### Modo oscuro.
+### Modo oscuro (Dark).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
