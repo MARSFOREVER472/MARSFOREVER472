@@ -154,7 +154,7 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_lover)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-**ESPERO QUE CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**
+**ESPERO QUE TODOS CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**
 
 **Kind regards!**
 
