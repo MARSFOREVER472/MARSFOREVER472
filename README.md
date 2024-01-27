@@ -43,7 +43,7 @@ https://committers.top/chile
 <p align="left">
 </p>
 
-- 📫 Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos.
+- 📫 _Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos:_
   
   - marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional).
   - maars472@gmail.com (Correo Personal).
