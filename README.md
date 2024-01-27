@@ -64,7 +64,7 @@ Todos los indicadores estadísticos que llevo hasta el momento...
 
 ## Github Trophies
 
-Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente.
+_Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente._
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
