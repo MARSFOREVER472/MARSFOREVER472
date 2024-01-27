@@ -1,6 +1,6 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! :D
 
-### _Contador de visitas añadido a mi archivo oficial (README.md)_ !!!!!!
+### _Contador de visitas añadido a mi archivo oficial de repositorio indicado (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
