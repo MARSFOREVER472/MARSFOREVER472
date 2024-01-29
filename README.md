@@ -46,7 +46,7 @@ https://committers.top/chile
 - 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos:_**
   
   - _marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._
-  - maars472@gmail.com (Correo Personal).
+  - _maars472@gmail.com (Correo Personal)._
   - +56 9 79628796 (Para llamadas o por WhatsApp).
 
 Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día.
