@@ -56,7 +56,7 @@ https://committers.top/chile
 
 ## Github Stats
 
-Todos los indicadores estadísticos que llevo hasta el momento...
+_Todos los indicadores estadísticos que llevo hasta el momento..._
 
 ![MARSFOREVER472's Stats](https://github-readme-stats.vercel.app/api?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![MARSFOREVER472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MARSFOREVER472&theme=vue-dark&hide_border=true)
