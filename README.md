@@ -156,6 +156,6 @@ Además, existe un montón de variedades que induce en tus logros obtenidos, com
 
 _**ESPERO QUE TODOS CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**_
 
-**Kind regards!**
+**_Kind regards!_**
 
 ***MARSFOREVER472***
