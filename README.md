@@ -11,6 +11,8 @@ https://committers.top/chile
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
+Actualmente esty en el ranking n° 22 de la página mencionada anteriormente...
+
 ## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A UNA BANDA DE ROCK METAL (AC-DC)).
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/03178ca5-7d7d-4523-b38c-4655a9eb7a48)
