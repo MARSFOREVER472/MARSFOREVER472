@@ -49,7 +49,7 @@ https://committers.top/chile
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._**
   - **_maars472@gmail.com (Correo Personal)._**
-  - _+56 9 79628796 (Para llamadas o por WhatsApp)._
+  - **_+56 9 79628796 (Para llamadas o por WhatsApp)._**
 
 **_Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
