@@ -47,7 +47,7 @@ https://committers.top/chile
 
 - 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos:_**
   
-  - _marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._
+  - **_marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._**
   - _maars472@gmail.com (Correo Personal)._
   - _+56 9 79628796 (Para llamadas o por WhatsApp)._
 
