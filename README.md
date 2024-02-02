@@ -3,6 +3,8 @@
 ### _Contador de visitas añadido a mi archivo oficial de repositorio indicado, en general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
+Antes de comenzar con la publicación de los resulltados, les voy a comentar algo:
+
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 **_Para más información, haga click mediante el siguiente link:_**
