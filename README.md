@@ -3,7 +3,7 @@
 ### _Contador de visitas añadido a mi archivo oficial de repositorio indicado, en general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
-_Antes de comenzar con la publicación de los resulltados, les voy a comentar algo:_
+_Antes de comenzar con la publicación de los resultados, les voy a comentar algo:_
 
 **El día de anoche, 31 de Enero, esta herramienta presentó algunos inconvenientes, por lo que temporalmente no se podía acceder a cualquier servicio del menú ni tampoco se podría vincular con otra cuenta suya a menos que tuviese más de una, sin embargo, con esta cuenta no he tenido ningún problema y pude realizar varios cambios ese día, así que es importante que todos tengan en cuenta este mensaje.**
 
