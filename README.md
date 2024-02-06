@@ -9,7 +9,7 @@ _Antes de comenzar con la publicación de los resultados, les voy a comentar alg
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
-**_Para más información, haz clic en el siguiente link:_**
+**_Para más información, haz clic aquí en el siguiente link:_**
 
 https://committers.top/chile
 
