@@ -1,6 +1,6 @@
 # BIENVENIDO A MI PERFIL DE MARSFOREVER472!!! :D
 
-### _Contador de visitas añadido a mi archivo oficial de repositorio indicado, en general es consecutivamente aleatorio (README.md)_ !!!!!!
+### _Contador de visitas añadido a mi archivo oficial deL repositorio indicado, en general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
 _Antes de comenzar con la publicación de los resultados, les voy a comentar algo muy importante:_
