@@ -3,6 +3,8 @@
 ### _Contador de visitas añadido a mi archivo oficial deL repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
+_Primero que nada, les deseo un día muy especial para todos los enamorados y enamoradas de quiénes siguen utilizando esta herramienta muy conocida hoy en día (Github)_
+
 _Antes de continuar con la publicación de los resultados, les voy a comentar algo muy importante:_
 
 **El día de anoche, 31 de Enero, esta herramienta presentó algunos inconvenientes, por lo que temporalmente no se podía acceder a cualquier servicio del menú ni tampoco se podría vincular con otra cuenta suya a menos que tuviese más de una, sin embargo, con esta cuenta no he tenido ningún problema y pude realizar varios cambios ese día, así que es importante que todos tengan en cuenta este mensaje.**
