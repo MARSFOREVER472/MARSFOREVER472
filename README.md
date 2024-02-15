@@ -3,7 +3,7 @@
 ### _Contador de visitas añadido a mi archivo oficial deL repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
-_Primero que nada, les deseo un día muy especial para todos los enamorados y enamoradas de quiénes siguen utilizando esta herramienta muy conocida hoy en día (Github)_
+_Primero que nada, les deseo un día muy especial para todos los enamorados y enamoradas de quiénes siguen utilizando esta herramienta muy conocida hoy en día (Github)._
 
 _Antes de continuar con la publicación de los resultados, les voy a comentar algo muy importante:_
 
