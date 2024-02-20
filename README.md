@@ -44,6 +44,8 @@ https://committers.top/chile
 
 _Originalmente en inglés:_
 
+<h3 align="left">I am the all-time programmer on github</h3>
+
 _Traducido del español:_
 
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
