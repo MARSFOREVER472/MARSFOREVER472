@@ -43,7 +43,7 @@ https://committers.top/chile
 
 
 
-Traducido del español:
+_Traducido del español:_
 
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
 
