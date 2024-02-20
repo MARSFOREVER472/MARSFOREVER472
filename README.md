@@ -48,7 +48,7 @@ _Originalmente en inglés:_
 
 
 - 🔭 **_I am currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
-- I am currently learning Python and some courses about Artificial Intelligence.
+- _I am currently learning Python and some courses about Artificial Intelligence._
 
 _Traducido del español:_
 
