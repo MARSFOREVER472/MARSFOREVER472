@@ -46,6 +46,9 @@ _Originalmente en inglés:_
 
 <h3 align="left">I am the all-time programmer on github</h3>
 
+
+- 🔭 I am currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)
+
 _Traducido del español:_
 
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
