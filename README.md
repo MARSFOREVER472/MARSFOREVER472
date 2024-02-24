@@ -50,6 +50,10 @@ _Originalmente en inglés:_
 - 🔭 **_I am currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
 - 🌱 **_I am currently learning Python and some courses about Artificial Intelligence._**
 
+<h3 align="left">Contact us:</h3>
+<p align="left">
+</p>
+
 _Traducido del español:_
 
 <h3 align="left">Soy el programador de todos los tiempos en github</h3>
