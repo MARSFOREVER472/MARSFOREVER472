@@ -56,7 +56,7 @@ _Originalmente en inglés:_
 
 - 📫 **_How to contact me: If you have any suggestions, please send them to one of my contacts:_**
 
-  - marcelo.lam@alumnos.ucn.cl (Institutional University Mail).
+  - _marcelo.lam@alumnos.ucn.cl (Institutional University Mail)._
 
 _Traducido del español:_
 
