@@ -96,7 +96,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-_Además, existe un montón de variedades que induce en tus logros obtenidos, como por ejemplo:_
+**_Además, existe un montón de variedades que induce en tus logros obtenidos, como por ejemplo:_**
 
 ### Modo oscuro (Dark).
 
