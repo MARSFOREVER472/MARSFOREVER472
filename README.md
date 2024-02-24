@@ -54,7 +54,7 @@ _Originalmente en inglés:_
 <p align="left">
 </p>
 
-- 📫 _How to contact me: If you have any suggestions, please send them to one of my contacts:_
+- 📫 **_How to contact me: If you have any suggestions, please send them to one of my contacts:_**
 
 _Traducido del español:_
 
