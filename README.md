@@ -8,6 +8,7 @@ _Traducido del español:_
 ### _Contador de visitas añadido a mi archivo oficial del repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
+## CURRENT RANKING FEATURED ON THE PAGE
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 **_Para más información, haz clic aquí en el siguiente link:_**
