@@ -9,6 +9,9 @@ _Traducido del español:_
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
 ## CURRENT RANKING FEATURED ON THE PAGE
+
+**_For more information, click here on the following link:_**
+
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 **_Para más información, haz clic aquí en el siguiente link:_**
