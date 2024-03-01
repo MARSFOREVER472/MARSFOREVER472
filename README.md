@@ -167,7 +167,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onestar)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo discord (Comúnmente para hacer videollamadas).
+### Modo discord (Discord mode).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=discord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
