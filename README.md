@@ -12,6 +12,10 @@ _Traducido del español:_
 
 **_For more information, click here on the following link:_**
 
+https://committers.top/chile
+
+[![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
+
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 **_Para más información, haz clic aquí en el siguiente link:_**
