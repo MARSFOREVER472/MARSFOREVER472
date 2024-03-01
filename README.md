@@ -10,7 +10,7 @@ _Traducido del español:_
 
 ## CURRENT RANKING FEATURED ON THE PAGE
 
-**_For more information, click here on the following link:_**
+**_For more info, click here on the following link:_**
 
 https://committers.top/chile
 
