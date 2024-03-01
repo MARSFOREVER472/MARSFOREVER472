@@ -2,6 +2,8 @@
 
 ### Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md) !!!!!!
 
+Traducido del español:
+
 ### _Contador de visitas añadido a mi archivo oficial del repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
