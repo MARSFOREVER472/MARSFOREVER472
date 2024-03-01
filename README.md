@@ -8,10 +8,6 @@ _Traducido del español:_
 ### _Contador de visitas añadido a mi archivo oficial del repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
-_**Antes de continuar con la publicación de mis resultados, les voy a comentar algo muy importante:**_
-
-**El día de anoche, 31 de Enero, esta herramienta presentó algunos inconvenientes, por lo que temporalmente no se podía acceder a cualquier servicio del menú ni tampoco se podría vincular con otra cuenta suya a menos que tuviese más de una, sin embargo, con esta cuenta no he tenido ningún problema y pude realizar varios cambios ese día, así que es importante que todos tengan en cuenta este mensaje.**
-
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
 **_Para más información, haz clic aquí en el siguiente link:_**
