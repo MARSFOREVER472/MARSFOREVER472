@@ -1,6 +1,7 @@
 # BIENVENIDO A MI PERFIL PERSONAL! :D
 
 ### _Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md)_ !!!!!!
+![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
 _Traducido del español:_
 
