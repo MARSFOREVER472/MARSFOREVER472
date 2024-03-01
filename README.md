@@ -90,7 +90,7 @@ _Traducido del español:_
   - **_maars472@gmail.com (Correo Personal)._**
   - **_+56 9 79628796 (Para llamadas o por WhatsApp)._**
 
-Below I am going to show you some achievements that I obtained during the software development process with programming languages ​​being the most used today.
+**_Below I am going to show you some achievements that I obtained during the software development process with programming languages ​​being the most used today._**
 
 **_Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
