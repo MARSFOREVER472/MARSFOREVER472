@@ -92,6 +92,8 @@ _Traducido del español:_
 
 **_Below I am going to show you some achievements that I obtained during the software development process with programming languages ​​being the most used today._**
 
+Traducido del español:
+
 **_Aquí abajo les voy a mostrar algunos logros que obtuve durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
 <h3 align="left">Herramientas y Lenguajes de Programación:</h3>
