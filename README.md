@@ -16,7 +16,7 @@ https://committers.top/chile
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-Traducido del español:
+_Traducido del español:_
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
