@@ -119,7 +119,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo gruvbox (Gruvbox mode).
+### Modo gruvbox (Gruvbox mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gruvbox)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
