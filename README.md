@@ -175,7 +175,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo gitdimmed. (Gitdimmed mode).
+### Modo gitdimmed. (Gitdimmed mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
