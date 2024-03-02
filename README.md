@@ -159,7 +159,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=oldie)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo radical. (Radical mode)
+### Modo radical (Radical mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=radical)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
