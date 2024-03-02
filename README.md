@@ -183,7 +183,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=tokyonight)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo matrix (Matrix mode).
+### Modo matrix (Matrix mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
