@@ -143,7 +143,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=alduin)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo darkhub. (DarkHub mode).
+### Modo darkhub. (DarkHub mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=darkhub)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
