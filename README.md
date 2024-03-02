@@ -115,7 +115,7 @@ _Traducido del español:_
 
 **_Además, existe un montón de variedades que induce en tus logros obtenidos, como por ejemplo:_**
 
-### Modo oscuro (Dark mode).
+### Modo oscuro (Dark mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
