@@ -187,7 +187,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo apprentice (Apprentice mode).
+### Modo apprentice (Apprentice mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=apprentice)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
