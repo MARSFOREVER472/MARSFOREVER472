@@ -139,7 +139,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=nord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo alduin. (Alduin mode)
+### Modo alduin (Alduin mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=alduin)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
