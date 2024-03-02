@@ -131,7 +131,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo chalk. (Chalk mode).
+### Modo chalk. (Chalk mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=chalk)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
