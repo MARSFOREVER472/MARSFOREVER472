@@ -123,7 +123,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gruvbox)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo drácula. (Dracula mode)
+### Modo drácula (Dracula mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dracula)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
