@@ -155,7 +155,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo oldie (Oldie mode).
+### Modo oldie (Oldie mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=oldie)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
