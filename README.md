@@ -171,7 +171,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=discord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo algolia. (Algolia mode)
+### Modo algolia (Algolia mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
