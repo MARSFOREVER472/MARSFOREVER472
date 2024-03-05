@@ -179,7 +179,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo tokyonight (TokyoNight mode)
+### Modo tokio-nocturno (TokyoNight mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=tokyonight)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
