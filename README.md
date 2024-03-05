@@ -18,7 +18,7 @@ https://committers.top/chile
 
 **_I am currently ranked #9 on the page mentioned above (Commits)..._**
 
-_Traducido del español:_
+**_Traducido del español:_**
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
