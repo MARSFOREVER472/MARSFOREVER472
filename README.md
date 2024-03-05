@@ -127,7 +127,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dracula)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo monokai (Monokai mode)
+### Modo asociación (Monokai mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
