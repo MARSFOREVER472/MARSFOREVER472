@@ -163,7 +163,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=radical)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo onestar (Onestar mode)
+### Modo estrella-única (Onestar mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onestar)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
