@@ -195,7 +195,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_dimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo dark_lover (Dark_lover mode)
+### Modo amante_oscuro (Dark_lover mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_lover)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
