@@ -147,7 +147,7 @@ _Traducido del español:_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=darkhub)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo juicyfresh (JuicyFresh mode)
+### Modo jugo-refrescante (JuicyFresh mode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=juicyfresh)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
