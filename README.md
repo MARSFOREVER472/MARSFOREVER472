@@ -106,7 +106,7 @@ _Traducido del español:_
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
 - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 - **_Dotnet: Más conocido como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
-- Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows.
+- _Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._
 
 ## Github Stats
 
