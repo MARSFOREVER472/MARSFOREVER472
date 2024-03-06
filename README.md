@@ -57,7 +57,7 @@ https://committers.top/chile
 
 _Originalmente en inglés:_
 
-<h3 align="left">I am the all-time programmer on github</h3>
+<h3 align="left">I am the all-time programmer on github...</h3>
 
 
 - 🔭 **_I am currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
