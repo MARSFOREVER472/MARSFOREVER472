@@ -104,7 +104,7 @@ _Traducido del español:_
 - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO._**
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
-- Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​
+- _Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_
 
 ## Github Stats
 
