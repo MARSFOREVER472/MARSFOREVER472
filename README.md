@@ -112,6 +112,7 @@ _Traducido del español:_
 - **_Java: Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems.​​_**
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos._**
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8._**
+- MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL.
 
 ## Github Stats
 
