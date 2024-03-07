@@ -115,7 +115,7 @@ https://committers.top/chile
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
 - **_MongoDB: Es un sistema de base de datos NoSQL, orientado a documentos y de código abierto._**
-- _SQL Server: Es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft._
+- **_SQL Server: Es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft._**
 
 ## Github Stats
 
