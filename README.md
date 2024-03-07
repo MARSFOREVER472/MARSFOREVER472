@@ -73,7 +73,7 @@ https://committers.top/chile
   - **_maars472@gmail.com (Personal Email)._**
   - **_+56 9 79628796 (For personal recalls or WhatsApp)._**
 
-_Traducido del español:_
+**_Traducido del español:_**
 
 <h3 align="left">Soy el programador de todos los tiempos en github...</h3>
 
