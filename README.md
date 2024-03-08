@@ -104,6 +104,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/ec502e8b-a7f3-46bc-a507-264b4811f5ec)
   
 - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos en el mundo real._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/27d15434-00c1-40d3-b4c0-3df38938b051)
+
 - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO._**
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
