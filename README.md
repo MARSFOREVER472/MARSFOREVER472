@@ -140,6 +140,8 @@ https://committers.top/chile
 
 ## Github Stats
 
+All the statistical gauges that I have so far...
+
 **_Todos los indicadores estadísticos que llevo hasta el momento..._**
 
 **_Estadísticas generales:_**
