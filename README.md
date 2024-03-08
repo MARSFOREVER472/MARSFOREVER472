@@ -142,6 +142,8 @@ https://committers.top/chile
 
 **_All the statistical gauges that I have so far..._**
 
+Traducido del español:
+
 **_Todos los indicadores estadísticos que llevo hasta el momento..._**
 
 **_Estadísticas generales:_**
