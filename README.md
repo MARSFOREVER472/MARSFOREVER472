@@ -16,7 +16,7 @@ https://committers.top/chile
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-**_I am currently ranked #9 on the page mentioned above (Commits)..._**
+**_I am currently ranked #6 on the page mentioned above (Commits)..._**
 
 **_Traducido del español:_**
 
@@ -28,7 +28,7 @@ https://committers.top/chile
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-**_Actualmente estoy en el puesto n° 9 de la página mencionada anteriormente (Commits)..._**
+**_Actualmente estoy en el puesto n° 6 de la página mencionada anteriormente (Commits)..._**
 
 ## LOGOTIPO OFICIAL DEL ARCHIVO (LO RELATIVO A UNA BANDA DE ROCK METAL (AC-DC)).
 
