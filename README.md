@@ -116,6 +116,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8ff4f3cf-0ee2-466b-9181-50bd1273b0bd)
 
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido._**
+  
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0bc5844c-36bb-45b9-8038-2c99b90c3fb0)
+
 - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 - **_Dotnet: Más conocido como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
 - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
