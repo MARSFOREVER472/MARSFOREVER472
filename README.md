@@ -124,6 +124,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/13a508af-56e4-4a4b-931c-f7eb72972887)
 
 - **_Dotnet: Más conocido como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/db825db2-b5f9-41aa-a2fb-4b6024887152)
+
 - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
 - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
 - **_Git: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
