@@ -128,6 +128,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/db825db2-b5f9-41aa-a2fb-4b6024887152)
 
 - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/f564642d-7914-498d-bf12-0bd95aa44eb7)
+
 - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
 - **_Git: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
 - **_Java: Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems.​​_**
