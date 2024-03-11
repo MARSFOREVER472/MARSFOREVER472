@@ -136,6 +136,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/08e956bb-a3c3-4cc4-a503-962cdb913f69)
 
 - **_Git: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/4d5beea2-034d-46c1-9b32-45f5e65e84ea)
+
 - **_Java: Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems.​​_**
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos._**
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8._**
