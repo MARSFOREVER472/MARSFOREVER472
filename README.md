@@ -132,6 +132,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/f564642d-7914-498d-bf12-0bd95aa44eb7)
 
 - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/08e956bb-a3c3-4cc4-a503-962cdb913f69)
+
 - **_Git: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
 - **_Java: Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems.​​_**
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos._**
