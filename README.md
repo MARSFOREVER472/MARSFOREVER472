@@ -139,7 +139,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/4d5beea2-034d-46c1-9b32-45f5e65e84ea)
 
-- **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems.​​_**
+- **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems.​​_**
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos._**
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8._**
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
