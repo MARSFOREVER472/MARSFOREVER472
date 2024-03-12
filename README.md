@@ -131,7 +131,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/f564642d-7914-498d-bf12-0bd95aa44eb7)
 
-- **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google los ofrece por separado._**
+- **_Google Cloud: Es una plataforma que reúne a todas las aplicaciones de desarrollo web que Google los ofrece por separado._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/08e956bb-a3c3-4cc4-a503-962cdb913f69)
 
