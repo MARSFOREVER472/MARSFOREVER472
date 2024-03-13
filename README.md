@@ -144,6 +144,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/df663525-67b9-4a37-84b6-92b2be7185a2)
 
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y propósito general con inferencia de tipos._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/398e17b4-d8cc-4b31-ab50-56cb0d8f50b3)
+
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
