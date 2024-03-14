@@ -148,6 +148,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/398e17b4-d8cc-4b31-ab50-56cb0d8f50b3)
 
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
+
+![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/c5f86201-f18a-43ef-acdd-65098787964d)
+
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
 - **_MongoDB: Es un sistema de base de datos NoSQL, orientado a documentos y de código abierto._**
