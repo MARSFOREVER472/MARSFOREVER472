@@ -149,7 +149,7 @@ https://committers.top/chile
 
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
 
-![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/c5f86201-f18a-43ef-acdd-65098787964d)
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/c5f86201-f18a-43ef-acdd-65098787964d)
 
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 
