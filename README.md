@@ -164,6 +164,9 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/695ed9c2-2037-41e7-b62a-8212ffdafce3)
 
 - **_SQL Server: Es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft._**
+
+  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8fc489a6-9533-4b52-865d-a9a4c73dc8e3)
+
 - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por la compañía Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo, y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
 - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para una capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor gráfico V8 que ofrece Google._**
 - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
