@@ -3,6 +3,7 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=MARSFOREVER472.MARSFOREVER472" />
 
 < h1 align="center">
+  <a href="https://git.io/typing.svg">
 
 ### _Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
