@@ -1,6 +1,6 @@
 # BIENVENIDO A MI PERFIL PERSONAL! :D
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=MARSFOREVER472.MARSFOREVER472" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=MARSFOREVER472.MARSFOREVER472" />
 
 < h1 align="center">
 
