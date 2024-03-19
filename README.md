@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=30&random=true&width=1000&lines=WELCOME+TO+MY+PERSONAL+PROFILE!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=35&random=true&width=1000&lines=WELCOME+TO+MY+PERSONAL+PROFILE!)](https://git.io/typing-svg)
 ### _Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
