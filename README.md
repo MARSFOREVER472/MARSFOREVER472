@@ -1,13 +1,6 @@
 # BIENVENIDO A MI PERFIL PERSONAL! :D
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=MARSFOREVER472.MARSFOREVER472" />
-
-<h1 align="center">
-  <a href="https://git.io/typing.svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=BIENVENIDO+A+MI+ PERFIL+PERSONAL!+:D;+I'M+MARSFOREVER472;" />
-  </a>
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&random=true&width=1000&lines=WELCOME+TO+MY+PERSONAL+PROFILE+TO+EVERYONE!)](https://git.io/typing-svg)
 ### _Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md)_ !!!!!!
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
