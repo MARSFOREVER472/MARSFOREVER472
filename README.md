@@ -1,11 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=1000&height=40&lines=WELCOME+TO+MY+PERSONAL+PROFILE+TO+EVERYONE!)](https://git.io/typing-svg)
 ### _Visitors counter added to my official file from the indicated repository, which is usually randomized consecutively (README.md)_ !!!!!!
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
 **_Traducido del español:_**
 
 ### _Contador de visitas añadido a mi archivo oficial del repositorio indicado, que por lo general es consecutivamente aleatorio (README.md)_ !!!!!!
-![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 ## CURRENT RANKING FEATURED ON THE PAGE
 
