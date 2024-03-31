@@ -59,7 +59,7 @@ https://committers.top/chile
 <h3 align="left">I am the full-time programmer on github...</h3>
 
 
-- 🔭 **_I am currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
+- 🔭 **_I'm currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
 - 🌱 **_I am currently learning Python and some courses about Artificial Intelligence._**
 
 <h3 align="left">Contact us:</h3>
