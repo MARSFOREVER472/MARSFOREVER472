@@ -118,7 +118,7 @@ https://committers.top/chile
   
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0bc5844c-36bb-45b9-8038-2c99b90c3fb0)
 
-- **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
+- **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de algunos contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/13a508af-56e4-4a4b-931c-f7eb72972887)
 
