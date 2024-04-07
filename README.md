@@ -142,7 +142,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/df663525-67b9-4a37-84b6-92b2be7185a2)
 
-- **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y propósito general con inferencia de tipos._**
+- **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y con un propósito general con inferencia de tipos._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/398e17b4-d8cc-4b31-ab50-56cb0d8f50b3)
 
