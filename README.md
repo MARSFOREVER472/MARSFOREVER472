@@ -183,6 +183,7 @@ https://committers.top/chile
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/704fa413-4493-4b88-856d-2ab2815d4542)
 
 - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones fundamentales:_**
+  
    - **_Configuración automática._**
    - **_Un enfoque de configuración obstinado._**
    - **_La capacidad de crear aplicaciones autónomas._**
