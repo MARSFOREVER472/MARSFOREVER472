@@ -201,7 +201,7 @@ https://committers.top/chile
 
 **_Traducido del español:_**
 
-**_Todos los indicadores estadísticos que llevo hasta el momento..._**
+**_Todos los indicadores estadísticos que llevo hasta la fecha..._**
 
 **_Estadísticas generales:_**
 
