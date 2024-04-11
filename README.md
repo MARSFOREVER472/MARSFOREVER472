@@ -154,7 +154,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/46213a93-6e6f-45d7-9722-88de537f6b28)
 
-- **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
+- **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio (Matlab)._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/226c035c-6e3e-468f-a3b4-4f8175a45274)
 
