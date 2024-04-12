@@ -295,7 +295,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo aprendiz (Apprentice mode)
+### Modo aprendiz (Apprentice mode):
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=apprentice)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
