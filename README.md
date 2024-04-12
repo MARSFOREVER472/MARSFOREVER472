@@ -287,7 +287,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gitdimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo tokio-nocturno (TokyoNight mode)
+### Modo tokio-nocturno (TokyoNight mode):
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=tokyonight)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
