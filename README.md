@@ -158,7 +158,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/226c035c-6e3e-468f-a3b4-4f8175a45274)
 
-- **_MongoDB: Es un sistema de base de datos no relacional NoSQL, orientado a documentos y de código abierto._**
+- **_MongoDB: Es un sistema de base de datos no-relacional NoSQL, orientado a documentos y de código abierto._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/695ed9c2-2037-41e7-b62a-8212ffdafce3)
 
