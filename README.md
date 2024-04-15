@@ -114,7 +114,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8ff4f3cf-0ee2-466b-9181-50bd1273b0bd)
 
-- **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, a diferencia de C, C++ es un lenguaje híbrido._**
+- **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, a diferencia de C y de C#, C++ es un lenguaje híbrido._**
   
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0bc5844c-36bb-45b9-8038-2c99b90c3fb0)
 
