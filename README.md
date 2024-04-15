@@ -174,7 +174,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0faa6d3d-5bd3-4349-b8af-0f1a364b0b1a)
 
-- **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
+- **_Oracle: Es una compañía especializada en las bases de datos en el desarrollo de soluciones locales y de nube._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/9c329baa-cee0-42ff-80dc-3cd66648bfea)
 
