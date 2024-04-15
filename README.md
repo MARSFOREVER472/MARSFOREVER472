@@ -162,7 +162,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/695ed9c2-2037-41e7-b62a-8212ffdafce3)
 
-- **_SQL Server: Es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft._**
+- **_SQL Server: Es un sistema de gestión de base de datos relacional o R.D.B.M.S., desarrollado por la empresa Microsoft._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8fc489a6-9533-4b52-865d-a9a4c73dc8e3)
 
