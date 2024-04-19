@@ -19,7 +19,7 @@ https://committers.top/chile
 
 **_Traducido del español:_**
 
-## RANKING ACTUAL DESTACADO EN LA PÁGINA
+## RANKING ACTUAL DESTACADO EN LA PÁGINA (SE ESTÁ TRABAJANDO)
 
 **_Para más información, haz clic aquí en el siguiente link:_**
 
