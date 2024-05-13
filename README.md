@@ -215,7 +215,7 @@ https://committers.top/chile
 
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## Github Trophies (SE ESTÁ TRABAJANDO)
+## Github Trophies (SE ESTÁN TRABAJANDO)
 
 **_Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente._**
 
