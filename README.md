@@ -58,7 +58,7 @@ https://committers.top/chile
 
 <h3 align="left">I am the full-time programmer on github...</h3>
 
-
+- I worked as a Front-End developer throughout my entire university career.
 - 🔭 **_I'm currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
 - 🌱 **_I'm currently learning Python and some courses about Artificial Intelligence._**
 
