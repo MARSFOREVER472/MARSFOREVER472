@@ -173,7 +173,7 @@ https://committers.top/chile
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/1f97f76c-ef45-4e55-ba04-4bcf1b505771)
 
-- **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para una capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor gráfico V8 que ofrece Google._**
+- **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para una capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor gráfico V8 que ofrece la compañía Google._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0faa6d3d-5bd3-4349-b8af-0f1a364b0b1a)
 
