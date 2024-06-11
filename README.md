@@ -21,7 +21,7 @@ https://committers.top/chile
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA (SE ESTÁN TRABAJANDO)
 
-**_Para más información, haz clic aquí en el siguiente link:_**
+**_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
 
 https://committers.top/chile
 
