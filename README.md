@@ -71,7 +71,7 @@ https://committers.top/chile
 
   - **_marcelo.lam@alumnos.ucn.cl (Institutional University Mail)._**
   - **_maars472@gmail.com (Personal Email)._**
-  - **_+56-979628796 (For personal recalls or WhatsApp)._**
+  - **_+56-9-79628796 (For personal recalls or WhatsApp)._**
 
 **_Traducido del español:_**
 
