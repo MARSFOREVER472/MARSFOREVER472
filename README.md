@@ -75,7 +75,7 @@ https://committers.top/chile
 
 **_Traducido del español:_**
 
-<h3 align="left">Soy el programador de todos los tiempos en github...</h3>
+<h3 align="left">Soy el programador de todos los tiempos en github (Desarrollador Front-End)...</h3>
 
 - 💻 **_Me desempeño como un desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End a lo largo de toda mi carrera universitaria._**
