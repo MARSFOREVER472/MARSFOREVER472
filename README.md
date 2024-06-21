@@ -60,7 +60,7 @@ https://committers.top/chile
 
 - 💻 **_I worked as a Back-End developer throughout my entire university career._**
 - 💻 **_I also work as a Front-End developer applying various tools such as CSS, HTML and JavaScript._**
-- 🔭 **_I'm currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)_**
+- 🔭 **_I'm currently working on [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)._**
 - 🌱 **_I'm currently learning Python and some courses about Artificial Intelligence._**
 
 <h3 align="left">Contact us:</h3>
