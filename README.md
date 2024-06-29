@@ -226,7 +226,7 @@ https://committers.top/chile
 
 **_Además, existe un montón de temáticas o variedades que induce en tus logros obtenidos, como por ejemplo:_**
 
-### Modo oscuro (Dark mode):
+### _Modo oscuro (Dark mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
