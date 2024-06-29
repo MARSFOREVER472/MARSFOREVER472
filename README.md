@@ -278,7 +278,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onestar)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo discord (Discord mode):
+### _Modo discord (Discord mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=discord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
