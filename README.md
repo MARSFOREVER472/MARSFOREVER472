@@ -242,7 +242,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo tiza (Chalk mode):
+### _Modo tiza (Chalk mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=chalk)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
