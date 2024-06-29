@@ -254,7 +254,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=alduin)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo centro-oscuro (DarkHub mode):
+### _Modo centro-oscuro (DarkHub mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=darkhub)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
