@@ -262,7 +262,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=juicyfresh)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo budismo (Buddhism mode):
+### _Modo budismo (Buddhism mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
