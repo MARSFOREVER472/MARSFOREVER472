@@ -246,7 +246,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=chalk)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### Modo norte (Nord mode):
+### _Modo norte (Nord mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=nord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
