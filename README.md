@@ -29,7 +29,7 @@ https://committers.top/chile
 
 **_Actualmente estoy en el puesto n° 2 de la página mencionada anteriormente (Commits)..._**
 
-## ESPECIAL DE HALLOWEEN (CREADO A FINALES DE OCTUBRE DE ESTE AÑO, DESDE EL 31 DE OCTUBRE)
+
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/b409ef74-deb6-4b1d-9550-0a0b5ad381ab)
 
