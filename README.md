@@ -31,7 +31,7 @@ https://committers.top/chile
 
 
 
-![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/03178ca5-7d7d-4523-b38c-4655a9eb7a48)
+
 
 ## ESPECIAL DÍA DE LOS ENAMORADOS (CREADO A PARTIR DE HOY)
 
