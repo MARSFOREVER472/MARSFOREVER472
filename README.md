@@ -31,7 +31,6 @@ https://committers.top/chile
 
 
 
-![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/f916f46e-7851-4fba-9527-359cad836d60)
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0c59da12-8d09-4a4e-abc0-37017068b9dd)
 
