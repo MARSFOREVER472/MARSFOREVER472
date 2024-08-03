@@ -36,7 +36,7 @@ https://committers.top/chile
 
 
 
-## ESPECIAL DE NAVIDAD 2023 (INCLUSIVE VÍSPERAS DE AÑO NUEVO)
+
 
 ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/66855c54-e88e-4408-bac6-a75b62af0dc7)
 
