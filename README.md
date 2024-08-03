@@ -41,7 +41,7 @@ https://committers.top/chile
 
 
 
-![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/32f66ed5-dba2-414c-8f58-53f6a0e1990f)
+
 
 **_Originalmente en inglés:_**
 
