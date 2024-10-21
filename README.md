@@ -179,7 +179,7 @@ https://committers.top/chile
 
 **_Traducido del español:_**
 
-**_Todos los indicadores estadísticos que llevo hasta la fecha (SE ESTÁ TRABAJANDO)..._**
+**_Todos los indicadores estadísticos que yo llevo hasta la fecha (SE ESTÁ TRABAJANDO)..._**
 
 **_Estadísticas generales (SE ESTÁN TRABAJANDO):_**
 
