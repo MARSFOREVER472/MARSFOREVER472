@@ -53,7 +53,7 @@ https://committers.top/chile
 
 <h3 align="left">Soy el programador de todos los tiempos en github (Desarrollador Front-End actualmente)...</h3>
 
-- 💻 **_Me desempeño como un desarrollador Back-End a lo largo de toda mi carrera universitaria._**
+- 💻 **_Me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End aplicando diversas herramientas como CSS, HTML y JavaScript._**
 - 🔭 **_Actualmente estoy trabajando en [Python programming language](https://github.com/MARSFOREVER472/BolaOchoMagica)._**
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._**
