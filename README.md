@@ -281,8 +281,6 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_dimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### _Modo amante_oscuro (Dark_lover mode):_
-
 
 
 _**ESPERO QUE TODOS CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**_
