@@ -279,8 +279,6 @@ https://committers.top/chile
 
 ### _Modo oscuro_atenuado (Dark_dimmed mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dark_dimmed)](https://github.com/MARSFOREVER472/github-profile-trophy)
-
 
 
 _**ESPERO QUE TODOS CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**_
