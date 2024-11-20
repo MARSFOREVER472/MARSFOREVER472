@@ -257,7 +257,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=discord)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### _Modo algolia (Algolia mode):_
+
 
 
 
