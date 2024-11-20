@@ -55,7 +55,7 @@ https://committers.top/chile
 
 - 💻 **_Me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End al 100% aplicando diversas herramientas como CSS, HTML y JavaScript._**
-- 🔭 **_Actualmente estoy trabajando en Javascript._**
+- 🔭 **_Actualmente estoy trabajando con Javascript._**
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._**
 
 <h3 align="left">Contacto:</h3>
