@@ -259,7 +259,7 @@ https://committers.top/chile
 
 ### _Modo algolia (Algolia mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=algolia)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 ### _Modo matrix (Matrix mode):_
 
