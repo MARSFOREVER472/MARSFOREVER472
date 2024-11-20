@@ -251,7 +251,7 @@ https://committers.top/chile
 
 ### _Modo estrella-única (Onestar mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onestar)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 ### _Modo matrix (Matrix mode):_
 
