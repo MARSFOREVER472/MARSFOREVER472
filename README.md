@@ -241,7 +241,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=buddhism)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### _Modo antigüo (Oldie mode):_
+
 
 
 
