@@ -233,7 +233,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=darkhub)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### _Modo jugo-refrescante (JuicyFresh mode):_
+
 
 
 
