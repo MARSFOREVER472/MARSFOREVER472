@@ -243,7 +243,7 @@ https://committers.top/chile
 
 ### _Modo antigüo (Oldie mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=oldie)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 ### _Modo matrix (Matrix mode):_
 
