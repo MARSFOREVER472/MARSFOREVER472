@@ -245,10 +245,6 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=oldie)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-
-
-
-
 ### _Modo matrix (Matrix mode):_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
