@@ -215,7 +215,7 @@ https://committers.top/chile
 
 ### _Modo asociación (Monokai mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=monokai)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 ### _Modo matrix (Matrix mode):_
 
