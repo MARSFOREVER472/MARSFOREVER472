@@ -199,7 +199,7 @@ https://committers.top/chile
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-**_Además, existe un montón de temáticas o variedades que induce en tus logros obtenidos, como por ejemplo:_**
+
 
 
 
