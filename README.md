@@ -201,7 +201,7 @@ https://committers.top/chile
 
 **_Además, existe un montón de temáticas o variedades que induce en tus logros obtenidos, como por ejemplo:_**
 
-### _Modo oscuro (Dark mode):_
+
 
 
 
