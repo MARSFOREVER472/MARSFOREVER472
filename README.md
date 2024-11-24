@@ -207,7 +207,7 @@ https://committers.top/chile
 
 ### _Modo cápsula minera (Gruvbox mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=gruvbox)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 
 
