@@ -203,7 +203,7 @@ https://committers.top/chile
 
 ### _Modo oscuro (Dark mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=onedark)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 
 
