@@ -211,7 +211,7 @@ https://committers.top/chile
 
 ### _Modo drácula (Dracula mode):_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=dracula)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 
 
 
