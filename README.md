@@ -28,7 +28,7 @@ https://committers.top/chile
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-**_Actualmente estoy en el puesto n° 2 de la página mencionada anteriormente (Commits)..._**
+**_Actualmente estoy en el puesto n° 3 de la página mencionada anteriormente (Commits)..._**
 
 **_Originalmente en inglés:_**
 
