@@ -87,7 +87,6 @@ https://committers.top/chile
 
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, a diferencia de C y de C#, C++ es un lenguaje 100% híbrido._**
   
- 
 - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de algunos contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/13a508af-56e4-4a4b-931c-f7eb72972887)
