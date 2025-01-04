@@ -113,7 +113,7 @@ https://committers.top/chile
 
 - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por la compañía Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo, y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
 
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/1f97f76c-ef45-4e55-ba04-4bcf1b505771)
+  
 
 - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para una capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor gráfico V8 que ofrece la compañía Google._**
 
