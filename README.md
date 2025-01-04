@@ -79,7 +79,7 @@ https://committers.top/chile
 
 - **_Android: Es un sistema operativo móvil basado en el núcleo de dicho sistema operativo Linux y otros softwares de código abierto._**
   
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/ec502e8b-a7f3-46bc-a507-264b4811f5ec)
+  
   
 - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos en el mundo real._**
 
