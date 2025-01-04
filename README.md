@@ -84,7 +84,6 @@ https://committers.top/chile
 - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente en un shell de Unix; así como un reconocido lenguaje de scripting o de escritura gráfica._**
 
   
-
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que en un momento después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8ff4f3cf-0ee2-466b-9181-50bd1273b0bd)
