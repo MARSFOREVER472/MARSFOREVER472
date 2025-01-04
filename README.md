@@ -111,7 +111,7 @@ https://committers.top/chile
  
 - **_SQL Server: Es un sistema de gestión de base de datos relacional o R.D.B.M.S., desarrollado por la empresa Microsoft._**
 
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8fc489a6-9533-4b52-865d-a9a4c73dc8e3)
+ 
 
 - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por la compañía Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo, y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
 
