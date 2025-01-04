@@ -118,7 +118,6 @@ https://committers.top/chile
 - **_Oracle: Es una compañía especializada en las consultas hacia las bases de datos y en el desarrollo de soluciones locales y de la nube._**
 
   
-
 - **_Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, en la cual se utiliza para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/704fa413-4493-4b88-856d-2ab2815d4542)
