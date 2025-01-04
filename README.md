@@ -108,7 +108,6 @@ https://committers.top/chile
 - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio (Matlab)._**
 
 - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
-
  
 - **_SQL Server: Es un sistema de gestión de base de datos relacional o R.D.B.M.S., desarrollado por la empresa Microsoft._**
 
