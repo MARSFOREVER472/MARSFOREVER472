@@ -96,7 +96,6 @@ https://committers.top/chile
 - **_Google Cloud: Es una plataforma que reúne a todas las aplicaciones de desarrollo web que Google los ofrece por separado._**
 
   
-
 - **_Git: Es un software de control de versiones diseñado por el ingeniero Finlandés-Estadounidense Linus Torvalds,en la cual está pensado en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/4d5beea2-034d-46c1-9b32-45f5e65e84ea)
