@@ -102,7 +102,6 @@ https://committers.top/chile
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y con un propósito general mediante inferencia de tipos._**
 
   
-
 - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/c5f86201-f18a-43ef-acdd-65098787964d)
