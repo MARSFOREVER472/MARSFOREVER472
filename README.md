@@ -107,7 +107,7 @@ https://committers.top/chile
 
 - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio (Matlab)._**
 
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/226c035c-6e3e-468f-a3b4-4f8175a45274)
+  
 
 - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
 
