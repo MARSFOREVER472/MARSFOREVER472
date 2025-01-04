@@ -80,7 +80,6 @@ https://committers.top/chile
 - **_Android: Es un sistema operativo móvil basado en el núcleo de dicho sistema operativo Linux y otros softwares de código abierto._**
       
 - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos en el mundo real._**
-
  
 - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente en un shell de Unix; así como un reconocido lenguaje de scripting o de escritura gráfica._**
 
