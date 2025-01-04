@@ -85,7 +85,6 @@ https://committers.top/chile
  
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que en un momento después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
-
 - **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, a diferencia de C y de C#, C++ es un lenguaje 100% híbrido._**
   
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/0bc5844c-36bb-45b9-8038-2c99b90c3fb0)
