@@ -82,8 +82,7 @@ https://committers.top/chile
 - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos en el mundo real._**
  
 - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente en un shell de Unix; así como un reconocido lenguaje de scripting o de escritura gráfica._**
-
-  
+ 
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que en un momento después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8ff4f3cf-0ee2-466b-9181-50bd1273b0bd)
