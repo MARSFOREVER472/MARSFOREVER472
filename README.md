@@ -128,7 +128,6 @@ https://committers.top/chile
 - **_Unity: Es un motor de videojuego multiplataformas creado por Unity Technologies, anunciado y lanzado por primera vez en Junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para dispositivos como Mac OS X._**
 
   
-
 ## _Github Stats (SE ESTÁN TRABAJANDO)_
 
 **_All the statistical gauges that I have so far..._**
