@@ -119,7 +119,7 @@ https://committers.top/chile
 
 - **_Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, en la cual se utiliza para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
 
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/704fa413-4493-4b88-856d-2ab2815d4542)
+
 
 - **_Spring Boot: Es una herramienta que rinde velocidad y simplifica el desarrollo de micro-servicios y aplicaciones web con la herramienta llamada Spring Framework gracias a sus 3 funciones fundamentales:_**
   
