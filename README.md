@@ -91,7 +91,7 @@ https://committers.top/chile
 
 - **_Dotnet: Más conocido como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
 
-  ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/db825db2-b5f9-41aa-a2fb-4b6024887152)
+  
 
 - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
 
