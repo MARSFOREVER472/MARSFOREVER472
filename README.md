@@ -90,7 +90,6 @@ https://committers.top/chile
 - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de algunos contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
   
-
 - **_Dotnet: Más conocido como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/db825db2-b5f9-41aa-a2fb-4b6024887152)
