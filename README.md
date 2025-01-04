@@ -110,7 +110,6 @@ https://committers.top/chile
 - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
 
  
-
 - **_SQL Server: Es un sistema de gestión de base de datos relacional o R.D.B.M.S., desarrollado por la empresa Microsoft._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/8fc489a6-9533-4b52-865d-a9a4c73dc8e3)
