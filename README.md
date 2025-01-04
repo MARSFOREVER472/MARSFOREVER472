@@ -99,7 +99,6 @@ https://committers.top/chile
 
 - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems.​​_**
 
-
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y con un propósito general mediante inferencia de tipos._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/398e17b4-d8cc-4b31-ab50-56cb0d8f50b3)
