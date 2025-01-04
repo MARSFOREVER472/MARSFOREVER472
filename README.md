@@ -93,7 +93,6 @@ https://committers.top/chile
 
 - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
 
-  
 - **_Google Cloud: Es una plataforma que reúne a todas las aplicaciones de desarrollo web que Google los ofrece por separado._**
 
   ![image](https://github.com/MARSFOREVER472/MARSFOREVER472/assets/69094327/08e956bb-a3c3-4cc4-a503-962cdb913f69)
