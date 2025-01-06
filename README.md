@@ -20,7 +20,7 @@
 
 **_Traducido del español:_**
 
-## _RANKING ACTUAL DESTACADO EN LA PÁGINA (SE ESTÁN TRABAJANDO)..._
+## _RANKING ACTUAL DESTACADO EN LA PÁGINA ..._
 
 **_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
 
