@@ -24,7 +24,7 @@
 
 **_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
 
-https://committers.top/chile
+_https://committers.top/chile_
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
