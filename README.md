@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F70A00&center=true&vCenter=true&random=false&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+To+Everyone!)](https://git.io/typing-svg)
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
+
 
 **_Traducido del español:_**
 
