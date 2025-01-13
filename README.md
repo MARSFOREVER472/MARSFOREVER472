@@ -15,7 +15,7 @@
 
 **_Traducido del español:_**
 
-## _RANKING ACTUAL DESTACADO EN LA PÁGINA..._
+## _RANKING ACTUAL DESTACADO EN ESTA PÁGINA..._
 
 **_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
 
