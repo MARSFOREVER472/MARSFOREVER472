@@ -10,7 +10,7 @@
 
 ## _CURRENT RANKING FEATURED ON THE PAGE..._
 
-**_For more info, click here on the following link:_**
+**_For more info, click here on this following link:_**
 
 **_https://committers.top/chile_**
 
