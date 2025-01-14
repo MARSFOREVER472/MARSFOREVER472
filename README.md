@@ -5,7 +5,7 @@
 
 
 
-**_Traducido del español:_**
+
 
 ## _RANKING ACTUAL DESTACADO EN ESTA PÁGINA..._
 
