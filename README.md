@@ -4,7 +4,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
 
-**_I am currently ranked #3 on the page mentioned above (Commits)..._**
 
 **_Traducido del español:_**
 
