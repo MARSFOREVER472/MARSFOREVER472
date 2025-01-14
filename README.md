@@ -4,7 +4,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
 
-
 **_For more info, click here on this following link:_**
 
 **_https://committers.top/chile_**
