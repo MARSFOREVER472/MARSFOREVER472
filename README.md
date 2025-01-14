@@ -5,7 +5,7 @@
 
 
 
-**_https://committers.top/chile_**
+
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
