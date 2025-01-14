@@ -3,7 +3,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F74A00&vCenter=true&random=false&width=1500&lines=Contador+de+visitas+a%C3%B1adido+a+mi+archivo+oficial+del+repositorio+indicado!)](https://git.io/typing-svg)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
-
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
 **_I am currently ranked #3 on the page mentioned above (Commits)..._**
