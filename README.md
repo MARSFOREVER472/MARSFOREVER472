@@ -6,7 +6,6 @@
 
 
 
-
 ## _RANKING ACTUAL DESTACADO EN ESTA PÁGINA..._
 
 **_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
