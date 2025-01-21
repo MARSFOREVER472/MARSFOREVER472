@@ -13,7 +13,7 @@
 
 **_Actualmente estoy en el puesto n° 3 de la página mencionada anteriormente (Commits)..._**
 
-**_Originalmente en inglés:_**
+
 
 <h3 align="left">I am the full-time programmer on github (Front-End Developer currently)...</h3>
 
