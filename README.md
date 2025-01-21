@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">I am the full-time programmer on github (Front-End Developer currently)...</h3>
+
 
 - 💻 **_I worked as a Back-End Developer throughout my entire university career._**
 - 💻 **_I also work as a 100% Front-End developer applying various tools such as CSS, HTML and JavaScript._**
