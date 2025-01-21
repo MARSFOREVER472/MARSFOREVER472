@@ -17,7 +17,7 @@
 
 
 
-- 💻 **_I worked as a Back-End Developer throughout my entire university career._**
+
 - 💻 **_I also work as a 100% Front-End developer applying various tools such as CSS, HTML and JavaScript._**
 - 🔭 **_I'm currently working with Javascript._**
 - 🌱 **_I'm currently learning Python and some courses about Artificial Intelligence._**
