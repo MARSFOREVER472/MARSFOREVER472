@@ -15,7 +15,7 @@
 
 
 
-</p>
+
 
 - 📫 **_How to contact me: If you have any suggestions, please send them to one of my contacts:_**
 
