@@ -20,7 +20,7 @@
 
 
 
-- 🌱 **_I'm currently learning Python and some courses about Artificial Intelligence._**
+
 
 <h3 align="left">Contact us:</h3>
 <p align="left">
