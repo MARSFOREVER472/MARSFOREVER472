@@ -19,7 +19,7 @@
 
 
 
-- 🔭 **_I'm currently working with Javascript._**
+
 - 🌱 **_I'm currently learning Python and some courses about Artificial Intelligence._**
 
 <h3 align="left">Contact us:</h3>
