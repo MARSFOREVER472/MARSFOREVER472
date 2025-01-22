@@ -13,7 +13,7 @@
 
 **_Actualmente estoy en el puesto n° 3 de la página mencionada anteriormente (Commits)..._**
 
-**_Traducido del español:_**
+
 
 <h3 align="left">Soy el programador de todos los tiempos en github (Desarrollador Front-End actualmente)...</h3>
 
