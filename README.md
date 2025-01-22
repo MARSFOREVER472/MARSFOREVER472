@@ -15,7 +15,7 @@
 
 
 
-  - **_marcelo.lam@alumnos.ucn.cl (Institutional University Mail)._**
+ 
   - **_maars472@gmail.com (Personal Email)._**
   - **_+ 56-9-79628796 (For personal re-calls or via WhatsApp messages)._**
 
