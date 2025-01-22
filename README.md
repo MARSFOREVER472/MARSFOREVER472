@@ -17,7 +17,7 @@
 
  
  
-  - **_+ 56-9-79628796 (For personal re-calls or via WhatsApp messages)._**
+
 
 **_Traducido del español:_**
 
