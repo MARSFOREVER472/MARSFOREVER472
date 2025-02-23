@@ -21,9 +21,7 @@
 - 🔭 **_Actualmente estoy trabajando con Javascript._**
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._**
 
-<h3 align="left">Contacto:</h3>
-<p align="left">
-</p>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F40555&vCenter=true&random=false&width=1500&lines=RANKING+ACTUAL+DESTACADO+EN+ESTA+PÁGINA...)](https://git.io/typing-svg)
 
 - 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos:_**
   
