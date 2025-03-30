@@ -15,7 +15,7 @@
 **_Actualmente estoy en el puesto n° 3 de la página mencionada anteriormente (Commits)..._**
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F40555&vCenter=true&random=false&width=1500&lines=Soy el programador de todos los tiempos en github (Desarrollador Front-End actualmente)...)](https://git.io/typing-svg)
-<h3 align="left">Soy el programador de todos los tiempos en github (Desarrollador Front-End actualmente)...</h3>
+
 
 - 💻 **_Me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End al 100% aplicando diversas herramientas como CSS, HTML y JavaScript._**
