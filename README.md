@@ -118,7 +118,6 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=34E555&vCenter=true&random=false&width=1500&lines=ESPERO+QUE+TODOS+CUENTEN+CONMIGO+EN+ESTA+INSTANCIA!!!!!)](https://git.io/typing-svg)
 
-
 **_Kind regards!_**
 
 **_MARSFOREVER472_**
