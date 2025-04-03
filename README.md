@@ -117,6 +117,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos+en+github+(Desarrollador+Front-End+actualmente)...)](https://git.io/typing-svg)
+
 _**ESPERO QUE TODOS CUENTEN CONMIGO EN ESTA INSTANCIA!!!!!**_
 
 **_Kind regards!_**
