@@ -68,7 +68,7 @@
 
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 
-- **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio (Matlab)._**
+- **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado mediante un lenguaje de programación propio (Matlab)._**
 
 - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
  
