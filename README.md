@@ -116,7 +116,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=9B5555&vCenter=true&random=false&width=1500&lines=ESPERO+QUE+TODOS+CUENTEN+CONMIGO+EN+ESTA+INSTANCIA!!!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=9C5555&vCenter=true&random=false&width=1500&lines=ESPERO+QUE+TODOS+CUENTEN+CONMIGO+EN+ESTA+INSTANCIA!!!!)](https://git.io/typing-svg)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=355555&vCenter=true&random=false&width=1500&lines=Kind+regards!)](https://git.io/typing-svg)
 
