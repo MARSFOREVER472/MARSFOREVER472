@@ -120,5 +120,5 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=355555&vCenter=true&random=false&width=1500&lines=Kind+regards!)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=0F0555&vCenter=true&random=false&width=1500&lines=MARSFOREVER472)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&color=0F0F55&vCenter=true&random=false&width=1500&lines=MARSFOREVER472)](https://git.io/typing-svg)
 
