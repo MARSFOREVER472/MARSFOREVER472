@@ -48,7 +48,7 @@
  
 - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que en un momento después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
-- **_C++: En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, a diferencia de C y de C#, C++ es un lenguaje 100% híbrido._**
+- **_C++: En ese sentido, desde el punto de vista de los lenguajes orientado a objetos, a diferencia de C y de C#, C++ es un lenguaje 100% híbrido._**
   
 - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de algunos contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
