@@ -24,7 +24,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=CONTACTO:)](https://git.io/typing-svg)
 
-- 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos:_**
+- 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos a continuación:_**
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._**
   - **_maars472@gmail.com (Correo Personal)._**
