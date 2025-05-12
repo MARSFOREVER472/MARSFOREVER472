@@ -17,7 +17,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos+en+github+(Desarrollador+Front-End+actualmente)...)](https://git.io/typing-svg)
 
 
-- 💻 **_Me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
+- 💻 **_Actualmente me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End al 100% aplicando diversas herramientas como CSS, HTML y JavaScript._**
 - 🔭 **_Actualmente estoy trabajando con Javascript._**
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._**
