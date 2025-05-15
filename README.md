@@ -92,7 +92,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34E555&vCenter=true&random=false&width=1500&lines=Github Stats (SE ESTÁN TRABAJANDO))](https://git.io/typing-svg)
 
-
 **_All the statistical gauges that I have so far..._**
 
 **_Traducido del español:_**
