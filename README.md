@@ -4,7 +4,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1500&color=2B9999&vCenter=true&random=true&width=1500&lines=RANKING+ACTUAL+DESTACADO+EN+ESTA+PÁGINA...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1500&color=2B9999&vCenter=true&random=true&width=1500&lines=RANKING+ACTUAL+DESTACADO+EN+ESTA+PÁGINA...)](https://git.io/typing-svg)
 
 **_Para más información sobre el ranking, haz clic aquí en el siguiente link:_**
 
