@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=FC0000&center=true&vCenter=true&random=true&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+To+Everyone+!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FC0000&center=true&vCenter=true&random=true&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+To+Everyone+!!!)](https://git.io/typing-svg)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F74600&vCenter=true&random=true&width=1500&lines=Contador+de+Visitas+a%C3%B1adido+a+mi+archivo+oficial+del+repositorio+indicado+!!!)](https://git.io/typing-svg)
 
