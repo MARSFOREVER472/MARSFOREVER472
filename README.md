@@ -20,7 +20,7 @@
 - 💻 **_Actualmente me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
 - 💻 **_También me desempeño como un desarrollador Front-End al 100% aplicando diversas herramientas como CSS, HTML y JavaScript._**
 - 🔭 **_Actualmente estoy trabajando con Bootstrap 5 y Javascript._**
-- 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos acerca de la Inteligencia Artificial._**
+- 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos de diplomado acerca de la Inteligencia Artificial._**
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=DATOS+DE+CONTACTO:)](https://git.io/typing-svg)
 
