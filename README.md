@@ -102,7 +102,7 @@
 
 ![MARSFOREVER472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MARSFOREVER472&theme=vue-dark&hide_border=true)
 
-**_Lenguajes de programación más utilizadas (SE ESTÁN TRABAJANDO):_**
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FFF000&vCenter=true&random=false&width=1500&lines=Lenguajes+de+programación+más+utilizadas+(SE+ESTÁN+TRABAJANDO...))](https://git.io/typing-svg)
 
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
