@@ -92,7 +92,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=4AAA80&vCenter=true&random=false&width=1500&lines=Criterios+Estadísticos+(SE+ESTÁN+TRABAJANDO...))](https://git.io/typing-svg)
 
-**_Todos los indicadores estadísticos que yo llevo hasta la fecha (SE ESTÁ TRABAJANDO)..._**
+### **_Todos los indicadores estadísticos que yo llevo hasta la fecha (SE ESTÁ TRABAJANDO)..._**
 
 **_Estadísticas generales (SE ESTÁN TRABAJANDO):_**
 
