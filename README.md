@@ -64,7 +64,7 @@
 
 - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipeado, de alto nivel y con un propósito general mediante inferencia de tipos._**
 
-- **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
+- **_Laravel: Es un Framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
 
 - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
 
