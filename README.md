@@ -26,7 +26,7 @@
 
 - 📫 **_Cómo contactarme: Ante cualquier sugerencia, hacerles llegar a uno de mis contactos a continuación (Inclusive los tengo anotados en mi descripción al lado izquierdo de la página):_**
   
-  - **_marcelo.lam@alumnos.ucn.cl (Correo Universitario Institucional)._**
+  - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
   - **_maars472@gmail.com (Correo Personal)._**
   - **_+ 56 9 7962 8796 (Para llamadas personales o por mensajes vía WhatsApp)._**
 
