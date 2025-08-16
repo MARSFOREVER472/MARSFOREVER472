@@ -90,7 +90,7 @@
 
 ### **_Todos los indicadores estadísticos que yo llevo hasta la fecha..._**
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FF0000&vCenter=true&random=false&width=1500&lines=Estadísticas+Generales+(SE+ESTÁN+TRABAJANDO...))](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FF0000&vCenter=true&random=false&width=1500&lines=Estadísticas+Generales)](https://git.io/typing-svg)
 
 ![MARSFOREVER472's Stats](https://github-readme-stats.vercel.app/api?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
