@@ -30,10 +30,6 @@
   - **_maars472@gmail.com (Correo Personal)._**
   - **_+ 56 9 7962 8796 (Para llamadas personales o por mensajes vía WhatsApp)._**
 
-
-
-
-
 **_Aquí abajo les voy a mostrar algunos logros que he obtenido durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=5000&color=FF6600&vCenter=true&random=false&width=1500&lines=HERRAMIENTAS+Y+LENGUAJES+DE+PROGRAMACIÓN+MÁS+UTILIZADAS:)](https://git.io/typing-svg)
