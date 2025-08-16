@@ -32,7 +32,7 @@
 
 **_Below I am going to show you some achievements that I obtained during the software development process with programming languages ​​being the most used today._**
 
-**_Traducido del español:_**
+
 
 **_Aquí abajo les voy a mostrar algunos logros que he obtenido durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
