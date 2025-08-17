@@ -102,7 +102,7 @@
 
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=2F2400&vCenter=true&random=false&width=1500&lines=Github+Trophies+(SE+ESTÁN+TRABAJANDO...))](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=2F2400&vCenter=true&random=false&width=1500&lines=Github+Trophies)](https://git.io/typing-svg)
 
 **_Consejo: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente en este apartado._**
 
