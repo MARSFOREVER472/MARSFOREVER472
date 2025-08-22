@@ -104,7 +104,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=2F2400&vCenter=true&random=false&width=1500&lines=Github+Trophies)](https://git.io/typing-svg)
 
-### **_P.D.: Debes pegar su URL de estos logros desde tu archivo README.md para poder visualizarlos actualmente en este apartado._**
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
