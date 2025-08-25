@@ -86,7 +86,7 @@
    
 - **_Unity: Es un motor de videojuego multiplataformas creado por Unity Technologies, anunciado y lanzado por primera vez en Junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para dispositivos como Mac OS X._**
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=4AAA80&vCenter=true&random=false&width=1500&lines=Criterios+Estadísticos!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=4AAA80&vCenter=true&random=false&width=1500&lines=Criterios+Estadísticos+!!!)](https://git.io/typing-svg)
 
 ### **_Todos los indicadores estadísticos que llevo hasta la fecha..._**
 
