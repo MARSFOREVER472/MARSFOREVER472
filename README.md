@@ -18,7 +18,7 @@
 
 
 - 💻 **_Actualmente me desempeño como un Desarrollador Back-End a lo largo de toda mi carrera universitaria._**
-- 💻 **_También me desempeño como un Desarrollador Front-End al 100% aplicando diversas herramientas como CSS, HTML y JavaScript._**
+- 💻 **_También me desempeño como un Desarrollador Front-End al 100% aplicando diversas herramientas tales como CSS, HTML y JavaScript._**
 - 🔭 **_Actualmente estoy trabajando con Bootstrap 5 y Javascript._**
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos de diplomado basados en Inteligencia Artificial._**
 
