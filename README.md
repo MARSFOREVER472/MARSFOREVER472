@@ -54,7 +54,7 @@
 
 - **_Google Cloud: Es una plataforma que reúne a todas las aplicaciones de desarrollo web que Google los ofrece por separado._**
 
-- **_Git: Es un software de control de versiones diseñado por el ingeniero Finlandés-Estadounidense Linus Torvalds,en la cual está pensado en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
+- **_Git: Es un Software de control de versiones diseñado por el Ingeniero Finlandés-Estadounidense Linus Torvalds,en la cual está pensado en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
 
 - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems.​​_**
 
