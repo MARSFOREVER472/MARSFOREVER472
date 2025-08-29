@@ -81,8 +81,8 @@
 - **_Spring Boot: Es una herramienta que rinde velocidad y simplifica el desarrollo de micro-servicios y aplicaciones web con la herramienta llamada Spring Framework gracias a sus 3 características fundamentales:_**
   
    - **_Configuración automática._**
-   - **_Un enfoque de configuración obstinado._**
-   - **_La capacidad de crear aplicaciones autónomas._**
+   - **_Enfoque de configuración obstinado._**
+   - **_Capacidad de crear aplicaciones autónomas._**
    
 - **_Unity: Es un motor de videojuego multiplataformas creado por Unity Technologies, anunciado y lanzado por primera vez en Junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para dispositivos como Mac OS X._**
 
