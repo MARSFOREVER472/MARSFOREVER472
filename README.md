@@ -28,7 +28,7 @@
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
   - **_maars472@gmail.com (Correo Personal)._**
-  - **_+ 56 9 7962 8796 (Para llamadas personales o por mensajes vía WhatsApp)._**
+  - **_+ 56 9 7962 8796 (Para llamadas personales y/o por mensajes vía WhatsApp)._**
 
 **_Aquí abajo les voy a mostrar algunos logros las cuales he obtenido durante el proceso de desarrollo de software con lenguajes de programación siendo las más utilizadas hoy en día._**
 
