@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=3000&color=FC2000&center=true&vCenter=true&random=true&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+To+Everyone+!!!)](https://git.io/typing-svg)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F77600&vCenter=true&random=true&width=1500&lines=Contador+de+Visitas+agregado+a+mi+archivo+oficial!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F77600&vCenter=true&random=true&width=1500&lines=Contador+de+Visitas+agregado+a+mi+archivo+oficial!!!)](https://git.io/typing-svg)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
 
