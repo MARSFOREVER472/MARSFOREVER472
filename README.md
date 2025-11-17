@@ -10,9 +10,9 @@
 
 **_https://committers.top/chile_**
 
-[![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
-
 ### **_Actualmente estoy en el puesto n° 5 de la página mencionada anteriormente (Commits)..._**
+
+[![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1200&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos+en+Github+...)](https://git.io/typing-svg)
 
