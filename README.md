@@ -30,7 +30,7 @@
   - **_maars472@gmail.com (Correo Personal)._**
   - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=DATOS+DE+CONTACTO+:)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=MIS+REDES+SOCIALES+:)](https://git.io/typing-svg)
 
  <div id="badges">
     <a href="your-linkedin-URL">
