@@ -30,7 +30,7 @@
   - **_maars472@gmail.com (Correo Personal)._**
   - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
 
-Mis Redes Sociales:
+### Mis Redes Sociales:
 
  <div id="badges">
     <a href="your-linkedin-URL">
