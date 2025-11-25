@@ -33,7 +33,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F76540&vCenter=true&random=false&width=1500&lines=MIS+REDES+SOCIALES+:)](https://git.io/typing-svg)
 
  <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/marcelo-andres-lam-biaggini-04559125a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   
