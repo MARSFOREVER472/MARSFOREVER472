@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   
-  <a href="https://www.facebook.com/mars.forever.94/?locale=es_ES">
+  <a href="https://www.instagram.com/maars472/">
         <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
