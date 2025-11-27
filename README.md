@@ -44,6 +44,9 @@
   <a href="https://www.facebook.com/mars.forever.94/?locale=es_ES">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://www.facebook.com/mars.forever.94/?locale=es_ES">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=5000&color=FF6600&vCenter=true&random=false&width=1500&lines=HERRAMIENTAS+Y+LENGUAJES+DE+PROGRAMACIÓN+MÁS+UTILIZADAS)](https://git.io/typing-svg)
