@@ -30,7 +30,9 @@
 📫 **_Cómo contactarme: Ante alguna consulta, duda, inquietud y/o sugerencia, hacerles llegar a uno de mis contactos a continuación:_**
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
+    
   - **_maars472@gmail.com (Correo Personal)._**
+    
   - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F76540&vCenter=true&random=false&width=1500&lines=MIS+REDES+SOCIALES+:)](https://git.io/typing-svg)
