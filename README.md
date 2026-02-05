@@ -10,7 +10,7 @@
 
 **_https://committers.top/chile_**
 
-### **_Actualmente estoy en el puesto n° 5 de la página mencionada anteriormente (Commits)..._**
+### **_Actualmente estoy en el puesto n° 6 de la página mencionada anteriormente (Commits)..._**
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
