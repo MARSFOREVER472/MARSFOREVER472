@@ -1,9 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=6000&color=FC2000&center=true&vCenter=true&random=true&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+!+!+!)](https://git.io/typing-svg)
 
-
-
-
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1500&color=F77050&vCenter=true&random=true&width=2000&lines=RANKING+ACTUAL+DESTACADO+EN+LA+SIGUIENTE+PÁGINA+:)](https://git.io/typing-svg)
 
 ### **_Para más información acerca del ranking, haz clic aquí en el siguiente link:_**
