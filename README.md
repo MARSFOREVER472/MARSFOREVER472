@@ -2,7 +2,7 @@
 
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MARSFOREVER472.MARSFOREVER472)
+
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1500&color=F77050&vCenter=true&random=true&width=2000&lines=RANKING+ACTUAL+DESTACADO+EN+LA+SIGUIENTE+PÁGINA+:)](https://git.io/typing-svg)
 
