@@ -6,7 +6,7 @@
 
 **_https://committers.top/chile_**
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=FF7750&vCenter=true&random=true&width=2000&lines=Para+más+información+acerca+del+ranking,+haz+clic+aquí+en+el+siguiente+link:)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=FF705F&vCenter=true&random=true&width=2000&lines=Para+más+información+acerca+del+ranking,+haz+clic+aquí+en+el+siguiente+link:)](https://git.io/typing-svg)
 
 ### **_Actualmente estoy en el puesto n° 6 de la página mencionada anteriormente (Commits)..._**
 
