@@ -6,7 +6,7 @@
 
 **_https://committers.top/chile_**
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=FFF700&vCenter=true&random=true&width=2000&lines=Actualmente+estoy+en+el+puesto+n°+6+de+la+página+mencionada+anteriormente+(Commits)...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1500&color=FFF700&vCenter=true&random=true&width=2000&lines=Actualmente+estoy+en+el+puesto+n°+6+de+la+página+mencionada+anteriormente+(Commits)...)](https://git.io/typing-svg)
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
