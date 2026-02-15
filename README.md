@@ -21,7 +21,7 @@
   
 - 🌱 **_Actualmente estoy aprendiendo Python y algunos cursos de diplomado basados en Inteligencia Artificial._**
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=DATOS+DE+CONTACTO+:)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F566C0&vCenter=true&random=false&width=1500&lines=DATOS+DE+CONTACTO)](https://git.io/typing-svg)
 
 📫 **_Cómo contactarme: Ante algunas consultas, dudas, inquietudes y/o sugerencias, hacerles llegar a uno de los siguientes contactos a continuación:_**
   
