@@ -59,9 +59,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=4AAA8F&vCenter=true&random=false&width=1500&lines=Criterios+Estadísticos+!+!+!)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FF0000&vCenter=true&random=false&width=1500&lines=Todos+los+indicadores+estadísticos+que+llevo+hasta+la+fecha...)](https://git.io/typing-svg)
-
-### **_Todos los indicadores estadísticos que llevo hasta la fecha..._**
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FF3777&vCenter=true&random=false&width=1500&lines=Todos+los+indicadores+estadísticos+que+llevo+hasta+la+fecha...)](https://git.io/typing-svg)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=FF0000&vCenter=true&random=false&width=1500&lines=Estadísticas+Generales+!)](https://git.io/typing-svg)
 
