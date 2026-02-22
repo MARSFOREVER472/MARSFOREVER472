@@ -13,7 +13,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1200&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos...)](https://git.io/typing-svg)
 
 
-- 💻 **_Actualmente me desempeño como Desarrollador Back-End a lo largo de toda mi carrera universitaria aplicando conocimientos sobre las Bases de Datos usando la extensión Microsoft MySQL._**
+- 💻 **_Actualmente me desempeño como Desarrollador Back-End a lo largo de toda mi carrera universitaria aplicando conocimientos sobre Bases de Datos usando la extensión Microsoft MySQL._**
   
 - 💻 **_También me desempeño como Desarrollador Front-End al 100% aplicando diversas herramientas tales como CSS, HTML y JavaScript._**
   
