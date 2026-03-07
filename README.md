@@ -27,7 +27,7 @@
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
     
-  - **_maars472@gmail.com (Correo Personal)._**
+  - **_maars472@gmail.com (Correo de uso Personal)._**
     
   - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
 
