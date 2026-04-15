@@ -1,6 +1,6 @@
 # **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=2000&color=1F2777&center=true&vCenter=true&random=true&width=1000&height=40&lines=Welcome+To+My+Personal+Profile+!+!+!)](https://git.io/typing-svg)_**
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1500&color=FC2000&vCenter=true&random=true&width=2000&lines=RANKING+ACTUAL+DESTACADO+EN+LA+SIGUIENTE+PÁGINA+!+!+!)](https://git.io/typing-svg)
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1500&color=FC2000&vCenter=true&random=true&width=2000&lines=RANKING+ACTUAL+DESTACADO+EN+LA+SIGUIENTE+PÁGINA+!+!+!)](https://git.io/typing-svg)_**
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF7000&vCenter=true&random=true&width=2000&lines=Para+más+información+acerca+del+ranking,+haz+click+aquí+en+el+siguiente+link+!+!+!)](https://git.io/typing-svg)
 
