@@ -31,7 +31,7 @@
     
   - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
 
-## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1500&color=F76440&vCenter=true&random=false&width=1500&lines=REDES+SOCIALES+!+!+!)](https://git.io/typing-svg)_**
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=2000&color=F76440&vCenter=true&random=false&width=1500&lines=REDES+SOCIALES+!+!+!)](https://git.io/typing-svg)_**
 
  <div id="badges">
     <a href="https://www.linkedin.com/in/marcelo-andres-lam-biaggini-04559125a/">
