@@ -10,7 +10,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=2000&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos+!+!+!)](https://git.io/typing-svg)
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=2000&color=34E555&vCenter=true&random=false&width=1500&lines=Soy+el+programador+de+todos+los+tiempos+!+!+!)](https://git.io/typing-svg)_**
 
 
 - 💻 **_Actualmente me desempeño como Desarrollador Back-End a lo largo de toda mi carrera universitaria aplicando conocimientos sobre Bases de Datos utilizando la extensión Microsoft MySQL._**
