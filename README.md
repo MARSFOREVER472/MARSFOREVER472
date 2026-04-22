@@ -69,7 +69,7 @@
 
 ![MARSFOREVER472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MARSFOREVER472&theme=vue-dark&hide_border=true)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=FFF000&vCenter=true&random=false&width=1500&lines=Lenguajes+de+Programación+más+Utilizadas+!+!+!)](https://git.io/typing-svg)
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=FFF000&vCenter=true&random=false&width=1500&lines=Lenguajes+de+Programación+más+Utilizadas+!+!+!)](https://git.io/typing-svg)_**
 
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
