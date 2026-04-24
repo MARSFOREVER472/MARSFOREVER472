@@ -81,5 +81,5 @@
 
 ### **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=355555&vCenter=true&random=false&width=1500&lines=Kind+Regards+To+Everyone+!+!+!)](https://git.io/typing-svg)_**
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=0FFFF0&vCenter=true&random=false&width=1500&lines=Marcelo+Andrés+ॐ+(MARSFOREVER472)+!+!+!)](https://git.io/typing-svg)
+### **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=0FFFF0&vCenter=true&random=false&width=1500&lines=Marcelo+Andrés+ॐ+(MARSFOREVER472)+!+!+!)](https://git.io/typing-svg)_**
 
