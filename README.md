@@ -15,7 +15,7 @@
 
 - 💻 **_Actualmente me desempeño como Desarrollador Back-End a lo largo de toda mi carrera universitaria aplicando conocimientos sobre Bases de Datos utilizando la extensión Microsoft MySQL._**
   
-- 💻 **_También me desempeño como Desarrollador Front-End al 100% aplicando diversas herramientas tales como CSS, HTML y JavaScript._**
+- 💻 **_También me desempeño al mismo tiempo como Desarrollador Front-End al 100% aplicando diversas herramientas tales como CSS, HTML y JavaScript._**
   
 - 🔭 **_Actualmente estoy trabajando con un framework llamado Bootstrap 5 y varios recursos de Javascript._**
   
