@@ -73,7 +73,7 @@
 
 ![MARSFOREVER472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=2F3700&vCenter=true&random=false&width=1500&lines=Github+Trophies)](https://git.io/typing-svg)
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=2F3700&vCenter=true&random=false&width=1500&lines=Github+Trophies)](https://git.io/typing-svg)_**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=matrix)](https://github.com/MARSFOREVER472/github-profile-trophy)
 
