@@ -57,8 +57,6 @@
 
 # **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=4AAA8F&vCenter=true&random=false&width=1500&lines=Criterios+Estadísticos+!+!+!Todos+los+indicadores+estadísticos+que+llevo+hasta+la+fecha+!+!+!)](https://git.io/typing-svg)_**
 
-### **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=FF3777&vCenter=true&random=false&width=1500&lines=Todos+los+indicadores+estadísticos+que+llevo+hasta+la+fecha+!+!+!)](https://git.io/typing-svg)_**
-
 ## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=2000&color=FF0000&vCenter=true&random=false&width=1500&lines=Estadísticas+Generales+!+!+!)](https://git.io/typing-svg)_**
 
 ![MARSFOREVER472's Stats](https://github-readme-stats.vercel.app/api?username=MARSFOREVER472&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
