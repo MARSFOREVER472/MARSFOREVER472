@@ -16,7 +16,7 @@
 
 - 💻 **_Actualmente también me desempeño como Desarrollador Back-End a lo largo de toda mi carrera universitaria aplicando conocimientos sobre Bases de Datos utilizando la extensión Microsoft MySQL._**
   
-- 🔭 **_Actualmente estoy trabajando con un framework llamado Bootstrap 5 y algunos otros recursos de Javascript._**
+- 🔭 **_Actualmente estoy trabajando con un framework llamado Bootstrap 5 y algunos otros recursos acerca de Javascript._**
   
 - 🌱 **_Actualmente estoy aprendiendo a programar con Python y algunos cursos de diplomado basados en Inteligencia Artificial._**
 
