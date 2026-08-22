@@ -2,7 +2,7 @@
 
 ## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=2500&color=FC2000&vCenter=true&random=true&width=2000&lines=Ranking+actual+destacado+en+la+siguiente+página+!+!+!+!)](https://git.io/typing-svg)_**
 
-### **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=2000&color=FF7000&vCenter=true&random=true&width=2000&lines=Para+más+información+acerca+de+este+ranking,+haz+click+aquí+en+el+siguiente+link+!+!+!)](https://git.io/typing-svg)_**
+### **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=2000&color=FF7000&vCenter=true&random=true&width=2000&lines=Para+más+información+acerca+de+este+ranking,+haz+click+aquí+en+el+siguiente+link+!+!+!+!)](https://git.io/typing-svg)_**
 
 **_https://committers.top/chile_**
 
