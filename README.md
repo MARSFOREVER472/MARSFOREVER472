@@ -10,7 +10,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/chile/MARSFOREVER472.svg)](https://user-badge.committers.top/chile/MARSFOREVER472)
 
-## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=2000&color=34E000&vCenter=true&random=false&width=1500&lines=Soy+el+Programador+de+todos+los+tiempos+!+!+!)](https://git.io/typing-svg)_**
+## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=34E000&vCenter=true&random=false&width=1500&lines=Soy+el+Programador+de+todos+los+tiempos+!+!+!)](https://git.io/typing-svg)_**
   
 - 💻 **_Actualmente me desempeño al mismo tiempo como Desarrollador Front-End al 100% aplicando diversas herramientas (HTML, CSS y JavaScript)._**
 
