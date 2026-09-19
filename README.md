@@ -25,6 +25,8 @@
 📫 **_Cómo contactarme: Ante algunas consultas, dudas, inquietudes y/o sugerencias, hacerles llegar a uno de los siguientes contactos a continuación:_**
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
+
+  - **_marcelo.lam@ce.ucn.cl (Correo Institucional)._**
     
   - **_maars472@gmail.com (Correo Personal)._**
     
