@@ -26,7 +26,7 @@
   
   - **_marcelo.lam@alumnos.ucn.cl (Correo Institucional)._**
 
-  - **_marcelo.lam@ce.ucn.cl (Correo Institucional)._**
+  - **_marcelo.lam@ce.ucn.cl (Correo Institucional 2)._**
     
   - **_maars472@gmail.com (Correo Personal)._**
     
