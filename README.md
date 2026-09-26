@@ -30,7 +30,7 @@
     
   - **_maars472@gmail.com (Correo Personal)._**
     
-  - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes vía WhatsApp)._**
+  - **_+ 56 9 7962 8796 (Para llamadas personales y/o  mensajes por WhatsApp)._**
 
 ## **_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=2000&color=F76440&vCenter=true&random=false&width=1500&lines=Mis+Redes+Sociales+!+!+!+!)](https://git.io/typing-svg)_**
 
